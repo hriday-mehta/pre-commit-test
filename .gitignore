@@ -1,0 +1,13 @@
+*.~
+*.bak
+*.BAK
+*.swp
+*.spec
+*.exe
+.idea/
+.vscode/
+venv/
+__pycache__/
+.idea/
+**/build/
+**/dist/

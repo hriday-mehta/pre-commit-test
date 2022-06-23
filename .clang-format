@@ -1,0 +1,14 @@
+# To display full list of options, run:
+#   clang-format --dump-config --style=file
+#
+# Ref: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+---
+BasedOnStyle: Microsoft
+ColumnLimit: 120
+IndentCaseLabels: true
+MaxEmptyLinesToKeep: 2
+SpaceBeforeParens: Never
+SpacesInLineCommentPrefix:
+  Minimum: 0
+  Maximum: 1
+...
