@@ -4,7 +4,7 @@
 # Ref: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
 ---
 BasedOnStyle: Microsoft
-ColumnLimit: 120
+ColumnLimit: 80
 IndentCaseLabels: true
 MaxEmptyLinesToKeep: 2
 SpaceBeforeParens: Never
